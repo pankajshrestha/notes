@@ -1,4 +1,4 @@
-# notes
+# Notes
 General Notes
 
 # Convert Rmd to Ipynb
