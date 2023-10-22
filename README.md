@@ -7,4 +7,4 @@ Convert R Markdown to Iron Python notebooks
 https://github.com/mwouts/jupytext
 
 # How to update `rlang` in Anaconda
-- 
+- https://gist.github.com/pankajshrestha/4a123a7b3ab063f6fa2dbc82031c3cef
