@@ -11,3 +11,6 @@ https://gist.github.com/pankajshrestha/4a123a7b3ab063f6fa2dbc82031c3cef
 
 # AutoHotKey setup
 https://github.com/pankajshrestha/mac-keyboard-behavior-in-windows/tree/main
+
+# Adding SSH Key to Mac Keychain
+https://gist.github.com/pankajshrestha/d647e8780cae55486c0cc282622901db
