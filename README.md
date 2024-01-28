@@ -14,3 +14,7 @@ https://github.com/pankajshrestha/mac-keyboard-behavior-in-windows/tree/main
 
 # Adding SSH Key to Mac Keychain
 https://gist.github.com/pankajshrestha/d647e8780cae55486c0cc282622901db
+
+# Creating symbolic link in Windows
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mklink
+E.g. `c:\Users\Pankaj Shrestha>mklink /d DGTech "D:/GTech"`
