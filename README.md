@@ -21,3 +21,30 @@ E.g. `c:\Users\Pankaj Shrestha>mklink /d DGTech "D:/GTech"`
 
 # List Jupyter Sessions with their tokens
 jupyter server list
+
+# Windows Keyboard mappping changes for MacOS
+- MacOS Keyboard Settings - Modifier Keys
+  - Option -> Command
+  - Command -> Option
+# Karabiner-Elements rules
+- Simple Modifications
+  - left_command -> left_option
+  - left_option -> left_command
+- Complex Modifications
+  - ```{
+    "description": "AJ-Caps Lock → Hyper Key (⌃⌥⇧⌘) (Escape if alone)",
+    "manipulators": [
+        {
+            "from": { "key_code": "caps_lock" },
+            "to": [
+                {
+                    "key_code": "left_shift",
+                    "modifiers": ["left_command", "left_control", "left_option"]
+                }
+            ],
+            "to_if_alone": [{ "key_code": "escape" }],
+            "type": "basic"
+        }
+    ]
+}```
+  
