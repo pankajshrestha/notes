@@ -222,4 +222,14 @@ jupyter server list
     ]
 }
 ```
-  
+
+
+# Aula F75 Pro shortcuts:
+- Change Charging Indicator: Fn + Shift
+- Mac mode: Fn + E
+- Win mode: Fn + W
+- Android mode: Fn + ?
+- Battery Level: Fn + B
+- Switch Lighting: Fn + \
+-   Change Brightness: Up arrow/ Down Arrow
+-   Change Speed: Right/ Left Arrow
