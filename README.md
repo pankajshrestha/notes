@@ -233,3 +233,5 @@ jupyter server list
 - Switch Lighting: Fn + \
 -   Change Brightness: Up arrow/ Down Arrow
 -   Change Speed: Right/ Left Arrow
+-   Static Light: Fn + Tab
+-   To stop pulsating, cicle thru different "breathing" options
